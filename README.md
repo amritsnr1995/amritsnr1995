@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/amrit-bk-25422b122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-bk-25422b12" height="30" width="40" /></a>
 <a href="https://www.behance.net/amritsunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amritsunar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amritsnr1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amritsnr1995" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amrit room reloaded-arr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amrit room reloaded-arr" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
