@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm frontend Developer</h1>
 <h3 align="center">I am self-taught developer. I am inspired with Udemy,youtube and many more online resources.</h3>
 
 - 📫 How to reach me **amrit.snr1995@gmail.com**
